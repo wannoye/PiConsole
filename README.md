@@ -16,7 +16,7 @@ Hardware List:
 
 Instructions:
 
-* These instructions require at least the USB A port on the Pi touchscreen be removed, possibly the micro usb port as well *
+*** These instructions require at least the USB A port on the Pi touchscreen be removed, possibly the micro usb port ***
 
 - Prep 4 jumper wires, leave the gpio pins on half the jumper, strip and tin one end of each. 
 - De-solder both usb ports from the touchscreen PCB, alternatively, check if the micro usb port must be removed. 
