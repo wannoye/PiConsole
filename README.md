@@ -18,8 +18,9 @@ Instructions:
 
 *** These instructions require at least the USB A port on the Pi touchscreen be removed, possibly the micro usb port ***
 
-- Prep 4 jumper wires, leave the gpio pins on half the jumper, strip and tin one end of each. 
-- De-solder both usb ports from the touchscreen PCB, alternatively, check if the micro usb port must be removed. 
+- Print the model using supports, the heavier the base the better 
+- Prep 4 jumper wires, leave the gpio pins on half the jumper, strip and tin one end of each
+- De-solder both usb ports from the touchscreen PCB, alternatively, check if the micro usb port must be removed
 - Solder the 4 jumpter wires to the 5V, GND, SCL and SDA pins on the screen
 - Cover the open connections with heat shrink
 - Remount the PCB onto the back of the screen using the 4 M2.5 x 4mm screws
